@@ -6,7 +6,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - [Overview](#overview)
   - [Screenshot](src/images/image-qr-code.png)
-  - [Links](#links)
+  - [Links](https://starlit-florentine-738638.netlify.app/)
 - [My process](#my-process)
   - [Built with](React js, Tailwind)
   - [What I learned](#what-i-learned)
@@ -32,8 +32,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://zairdon20.github.io/QR-Code-Component/)
-- Live Site URL: [Add live site URL here](https://zairdon20.github.io/QR-Code-Component/)
+- Solution URL: [Add solution URL here](https://github.com/zairdon20/QR-Code-Component)
+- Live Site URL: [Add live site URL here](https://starlit-florentine-738638.netlify.app/)
 
 ## My process
 
